@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonHra", "DungeonHra\DungeonHra.csproj", "{FFD96013-ECC5-4ECF-A06C-6B2ED448BD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD96013-ECC5-4ECF-A06C-6B2ED448BD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD96013-ECC5-4ECF-A06C-6B2ED448BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD96013-ECC5-4ECF-A06C-6B2ED448BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD96013-ECC5-4ECF-A06C-6B2ED448BD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BCB3024-F485-43BB-84A7-8E5A67EB84EF}
+	EndGlobalSection
+EndGlobal
